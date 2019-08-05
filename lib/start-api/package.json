@@ -1,0 +1,9 @@
+{
+  "name": "start-api",
+  "version": "1.0.0",
+  "description": "Start API",
+  "main": "lib/index.js",
+  "repository": "https://github.com/tonymj76/state-api",
+  "author": "Anthony Anonde",
+  "license": "MIT"
+}
